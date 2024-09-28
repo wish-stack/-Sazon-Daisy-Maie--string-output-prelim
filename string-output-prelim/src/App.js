@@ -3,7 +3,7 @@ import './App.css';
 import Steady from './steady.jpg';
 
 function App() {
-  const message = "Stream Steady by NCT WISH <3";
+  const message = "NCT WISH 엔시티 위시 'Steady' MV";
   const link = "https://youtu.be/IKlkZZv76Ho?si=BEV7xG6RjjtDiNH5";
 
   return (
